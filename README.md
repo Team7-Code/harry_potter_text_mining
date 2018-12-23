@@ -37,8 +37,8 @@ The methodology used in our project is broken into three parts where the analysi
 		* Relationships among the protagonists to see how their relationship progressed throughout the series
 
 ###### Repo Description:
-01 KNIME Workflows - This contains the workflows designed for mining the textual data in KNIME
-02 KNIME Processed - This contains the output from workflows which are then processed in python
-03 Python Scripts - This contains the scripts for graph analysis using NetworkX libraries
-04 Plots - visualizations
-05 Relationship plots - more visualizations
+1. KNIME Workflows - This contains the workflows designed for mining the textual data in KNIME
+1. KNIME Processed - This contains the output from workflows which are then processed in python
+1. Python Scripts - This contains the scripts for graph analysis using NetworkX libraries
+1. Plots - visualizations
+1. Relationship plots - more visualizations
